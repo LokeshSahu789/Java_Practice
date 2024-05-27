@@ -1,6 +1,9 @@
-package collections.custom.stack;
+package collections.custom;
 
-public class TestCustomCollection {
+import collections.custom.stack.CustomStack;
+import collections.custom.stack.StackUsingAL;
+
+public class TestCustomStack {
 
 	public static void main(String[] args) {
 
